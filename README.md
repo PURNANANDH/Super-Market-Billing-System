@@ -1,22 +1,22 @@
 # Super-Market-Billing-System
-                                                          Introduction:
+                                     Introduction:
 The Supermarket Billing System is an essential component of modern retail, streamlining the billing process and improving customer experience. This review focuses on a project that utilizes OpenMP for parallel programming in C++, with the integration of Object-Oriented Programming (OOP) principles to create an efficient and scalable billing system for supermarkets.
 
-                                                           What is OpenMP:
+                                     What is OpenMP:
 OpenMP (Open Multi-Processing) is an application programming interface (API) that enables developers to write parallel programs that can run on shared-memory multiprocessor systems. It simplifies parallel programming by providing a set of compiler directives and library routines, making it easier to exploit multi-core processors and achieve better performance.
 
-                                                           Why C++ as Parallel Programming:
+                                    Why C++ as Parallel Programming:
 C++ is a popular choice for parallel programming due to its robust support for both OOP and low-level system programming. When used in conjunction with OpenMP, C++ allows developers to leverage the power of multi-core processors effectively. Its ability to manage resources efficiently, along with features like thread management and synchronization mechanisms, makes it well-suited for parallel computing tasks in the Supermarket Billing System.
 
 
-                                                         How OOPs are Helpful to this Project:
+                                     How OOPs are Helpful to this Project:
 Object-Oriented Programming is a software development paradigm that emphasizes the use of objects, which are instances of classes, to model real-world entities and their interactions. In the context of the Supermarket Billing System, OOP principles can provide several advantages:
 1.	Modularity: OOP allows you to break down the system into smaller, manageable classes, making it easier to develop, maintain, and extend the software.
 2.	Encapsulation: Encapsulation hides the internal details of a class, ensuring data integrity and reducing the chances of unintended interference between components.
 3.	Inheritance: Inheritance enables you to create specialized classes that inherit properties from more general classes, promoting code reuse and hierarchy.
 4.	Polymorphism: Polymorphism allows you to design flexible and extensible systems by providing different implementations for common interfaces or functions.
 
-                                                        Project Implementations:
+                                     Project Implementations:
 The project successfully utilizes OpenMP for parallelizing critical tasks in the Supermarket Billing System. Some key implementations include:
 1.	Parallelizing item processing: OpenMP is used to process items concurrently, reducing checkout time and improving customer satisfaction.
 2.	Efficient inventory management: Parallel programming ensures that inventory updates are done concurrently, preventing stock discrepancies and enhancing accuracy.
@@ -24,7 +24,7 @@ The project successfully utilizes OpenMP for parallelizing critical tasks in the
 4.	Error handling and reporting: OOP concepts are employed to create robust error-handling mechanisms and generate detailed reports for store management.
 Conclusion: In summary, this project leverages OpenMP, C++, and OOP to create an efficient, scalable Supermarket Billing System, enhancing retail operations.
 
-                                                              CODE:
+                                     CODE:
 
 
             #include <iostream>
